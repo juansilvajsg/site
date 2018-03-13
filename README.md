@@ -1,2 +1,2 @@
 Meu Primeiro Projeto GIT.
-Instruções
+Instruções para o usuario
